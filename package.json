@@ -1,0 +1,14 @@
+{
+  "name": "find-commits",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsup",
+    "start": "node dist/find-commits.js"
+  },
+  "devDependencies": {
+    "@types/node": "25.5.2",
+    "tsup": "8.5.1",
+    "typescript": "6.0.2"
+  }
+}
